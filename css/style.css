@@ -1,0 +1,29 @@
+.timer1,
+.timer2,
+.timer3,
+.timer4 {
+  display: block;
+  float: left;
+  width: 100px;
+  margin: 10px 10px;
+  padding: 30px 0;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+  background: black;
+}
+/*.timer1::after {
+  content: "Day";
+  color: white;
+  
+}
+.timer2:nth-child(2):after {
+  content: "Timer";
+}
+.timer3:nth-child(3):after {
+  content: "Minutter";
+}
+.timer4:nth-child(4):after {
+  content: "Sekunder";
+}*/
